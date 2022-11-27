@@ -1,0 +1,89 @@
+# Falas Seminário
+
+## Objetivo
+
+- demonstrar que a redução da mortalidade infantil associada às doenças de veiculação hídrica foi alcançada com a melhoria na cobertura dos serviços de saneamento e ao aumento do acesso aos serviços de educação e saúde. 
+
+- Antes de prosseguir a explicação acho importante destacar algumas coisas que os autores enxergaram como diferenciais dos artigo e da abordagem de dados em painel:
+	1. ***A metodologia de dados em painel permite considerar de modo mais eficiente o efeito específico dos estados nas variáveis não observadas***
+	2. Ao cobrir um longo período, de 1981 a 2001, o presente estudo contempla inúmeras mudanças nas políticas de saúde e saneamento.
+	3. Permite comparar o custo efetividade da provisão dos serviços de saneamento, saúde e educação. Que é algo que vamos abordar no final da apresentação.
+
+## Contextualização
+
+### 1º SLIDE
+
+- Existem uma ampla literatura (Leibowitz; Friedman, 1979; Nocera ;Zweifel, 1998, inter alia) que explica como os serviços de saúde e saneamento (água tratada e coleta de esgoto) são essênciais para o bem-estar da população. 
+
+- E, além disso, existe mais literatura que indica claramente que a falta de condições adequadas de saneamento no que se refere a água e esgotamento sanitário é uma das principais causas da mortalidade na infância.
+	- Seroa da Motta e Rezende (1999) 
+	- Seroa da Motta et al. (1994)
+	- Kassouf (1994)
+	- Comprovação de resultados: Alves e Belluzzo (2004)
+
+- Dada essa importância, os autores olham para o panorâma brasileiro de acesso a saúde e serviços de saneamento básico e fazem a pergunta "como a extensão do acesso a serviços de saúde e saneamento impactou a população nos últimos anos?"
+
+- Bom, antes de abordar qual a magnitude desse impacto e qual o custo monetário de provisionar esses serviços, vamos olhar para a evolução dos indicadores de saúde e saneamento no período utilizado pelos autores.
+
+### 2º SLIDE
+
+- A evolução da cobertura dos serviços de saneamento no Brasil desde os anos 1970 foi significativa... Nos últimos 30 anos, os serviços de água alcançaram 90% da população urbana, o que é equivalente a mais de 30 milhões de domicílios. Na coleta de esgoto a cobertura subiu para 56%, cobrindo quase 20 milhões de famílias.
+
+### 3º SLIDE
+
+- A despeito disso, o país ainda é incipiente, em termos internacionais, no tratamento de esgoto. Como curiosidade, podemos ver isso ao olharmos o nível de cobertura de alguns países europeus. Além de que, nas áreas rurais, a cobertura ainda é muito pequena.
+
+### 4º SLIDE
+
+- Algo semelhantemente desanimador é visto ao olharmos para os números de acesso aos serviços de saneamento em diferentes classes sociais. A tabela 2 mostra que as famílias com renda acima de 10 salários mínimos (SMs) têm cobertura de água 50% maior, enquanto no caso da coleta de esgoto a diferença chega a quase o dobro.
+
+### 5º SLIDE
+
+- Agora, como ponto final do que seria uma análise exploratória de dados, os autores mostram essa tabela (Tabela 03), com a evolução da *taxa de mortalidade padronizada*  por doenças relacionadas à falta de condições adequadas de saneamento por região e faixa etária.
+
+- O foco do modelo econometrico e do trabalho como um todo é na faixa de 0 a 4 anos. Conforme podemos ver nessa seção da tabela, de 1980 a 1990, houve uma redução de mais de 50% na taxa de mortalidade; enquanto no período 1990-2000, a redução chegou perto de 80%. 
+
+## 6º SLIDE
+
+- Antes de passar a palavra pra Ruth, vou comentar brevemente sobre a origem dos dados utilizados no artigo:
+	- ***Datasus*** para os dados relacionados ao número de casos associados à mortalidade, morbidade e número de leitos.
+	- ***Sistema de Informações sobre Mortalidade (SIM)*** para a taxa de mortalidade.
+	- ***Censos Geográficos 1980 - 2000 (IBGE)***  para os dados referentes à população.
+	- ***Pesquisa Nacional por Amostra de Domicílios (PNAD) + Ipeadata*** para as variáveis de saneamento e as variáveis socioeconômicas
+	- ***Secretaria do Tesouro Nacional (STN) + Ministério da Fazenda (MF)*** para os gastos estaduais de saúde.
+
+## 7º SLIDE
+
+- Como dito na introdução, o objetivo do trabalho é isolar o impacto das mudanças nos serviços de saneamento e saúde na mortalidade infantil associada a doenças de veículação hidríca.
+
+## 8º SLIDE
+
+- Para fazer isso, os autores utilizam um dados em painel, isto é, eles seguem as mesmas unidades de cross-section (os estados) ao longo do período de 1980-2000.
+
+- Vou enunciar aqui para abreviar as próximas partes: sempre entendam o subscrito i como o estado da nossa base e o subcrito t como o indicador de ano.
+
+## 9º SLIDE
+
+- Então, essa é a equação que os autores estimam, onde  
+	- Y é taxa de mortalidade infantil por doenças relacionadas às condições inadequadas de saneamento.
+	- S é um vetor de variáveis ligadas ao saneamento.
+	- X é um vetor de variáveis não ligadas ao saneamento, mas que também apresentam influência na taxa de mortalidade infantil
+
+- Algo que não está explicitado na equação é a presença de variáveis dummy para cada município. Como a Ruth vai falar mais a frente, os autores utilizaram um estimador de efeitos fixos e dentre desses estimadores, escolheram aquele que utiliza uma dummy para cada estado.
+	
+## 10º SLIDE
+
+- Bom, como estamos falando de um modelo de dados em painel, o nosso termo de erro não é convencional e conta com dois componentes.
+
+- Um é o efeito fixo, que é constante no tempo para um mesmo Estado
+
+- O outro é um erro realemnte aleatório, que varia entre os estados e ao longo do tempo.
+
+## 11º SLIDE
+
+- Antes de passar a palavra pra Ruth, vou falar um pouco das variáveis que temos em cada um dos vetores apresentados previamente.
+
+- No vetor S os autores utilizaram a % da população atendida por condições adequadas de água tratada e a % da população atendida por condições adequadas de esgotamento sanitário.
+
+- No vetor X, das variáveis de controle, os autores utilizaram medidas para a escolaridade da população, a taxa de urbanização daquele estado, os gastos com saúde pública, e o número de leitos da rede hospitalar (tanto privada quanto particular).
+
