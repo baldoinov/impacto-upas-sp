@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 # Extras
-*.pdf
-*.docx
+.Rproj.user
+.Rhistory
+*.mp4
+slides/
+assets/
+listas/
