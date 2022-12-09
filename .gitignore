@@ -131,6 +131,7 @@ dmypy.json
 # Extras
 .Rproj.user
 .Rhistory
+*.Rproj
 *.mp4
 slides/
 assets/
