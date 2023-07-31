@@ -1,19 +1,20 @@
-# Econometria II - EAE0325 - FEAUSP 2022.02
+# Econometrics II - EAE0325 - FEAUSP 2022.02
 
-Esse repositório contém os materiais do curso de Econometria II ministrado no 2º semestre de 2022 na FEA-USP. Quando possível, vou colocar aqui as anotações feitas em aulas práticas, os exercícios práticos desenvolvidos ao longo do curso e o trabalho final.
+This repository contains the materials for the Econometrics II course taught in the 2nd semester of 2022 at FEA-USP. Whenever possible, I will upload here the notes taken during practical classes, the practical exercises developed throughout the course, and the final project.
 
-## Conteúdos
+## Contents
 
-- *Trabalho Final - Qual o impacto da presença de UPAs no nº de mortes dos municípios de São Paulo.*
+- *Final Project - What is the impact of the presence of Emergency Care Units (UPAs) on the number of deaths in municipalities of São Paulo?*
 
    - [Jupyter Notebook](impacto-upas-sp-econometria-ii.ipynb)
-   - [Versão entregue em .pdf](trabalho-impacto-upas-sp-econometria-ii.pdf)
-   - [Apresentação](apresentacao-impacto-das-upas-sp-econometria-ii.pdf)
+   - [Submitted Version in .pdf](trabalho-impacto-upas-sp-econometria-ii.pdf)
+   - [Presentation](apresentacao-impacto-das-upas-sp-econometria-ii.pdf)
    
 - Extras:
-   - [Script de extração da `Base dos Dados`](script-etl-impacto-upas-sp-econometria-ii.sql)
-   - [Script de tratamento dos arquivos .csv](script-etl-impacto-upas-sp-econometria-ii.py)
-   - [Script em R para gerar as tabelas de regressão](script-regressao-impacto-upas-sp-econometria-ii.R)
+
+   - [Data Extraction `Base dos Dados` Script](script-etl-impacto-upas-sp-econometria-ii.sql)
+   - [`.csv` Files Processing Script](script-etl-impacto-upas-sp-econometria-ii.py)
+   - [R Script for Generating Regression Tables](script-regressao-impacto-upas-sp-econometria-ii.R)
 
 
 Referências
@@ -26,4 +27,4 @@ Referências
 
 *** 
 
-Em caso de dúvidas ou quaisquer outras questões, você pode me mandar um [e-mail](mailto:vdbaldoino@gmail.com?subject=GitHub%20-%20Econometria) ou me mandar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/vitorbaldoino/).
+If you have any questions or any other issues, please email me at [vdbaldoino@gmail.com](mailto:vdbaldoino@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub!) or send me a message on [LinkedIn](https://www.linkedin.com/in/vitorbaldoino/).
