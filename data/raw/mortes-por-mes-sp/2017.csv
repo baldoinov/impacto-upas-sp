@@ -1,8 +1,8 @@
- Mortalidade - São Paulo
-Óbitos p/Ocorrênc por Município e Mês do Óbito
-Capítulo CID-10: I.   Algumas doenças infecciosas e parasitárias, III. Doenças sangue órgãos hemat e transt imunitár, IV.  Doenças endócrinas nutricionais e metabólicas, IX.  Doenças do aparelho circulatório, X.   Doenças do aparelho respiratório, XI.  Doenças do aparelho digestivo, XX.  Causas externas de morbidade e mortalidade
-Período:2017
-"Município";"Janeiro";"Fevereiro";"Março";"Abril";"Maio";"Junho";"Julho";"Agosto";"Setembro";"Outubro";"Novembro";"Dezembro";"Total"
+ Mortalidade - Sï¿½o Paulo
+ï¿½bitos p/Ocorrï¿½nc por Municï¿½pio e Mï¿½s do ï¿½bito
+Capï¿½tulo CID-10: I.   Algumas doenï¿½as infecciosas e parasitï¿½rias, III. Doenï¿½as sangue ï¿½rgï¿½os hemat e transt imunitï¿½r, IV.  Doenï¿½as endï¿½crinas nutricionais e metabï¿½licas, IX.  Doenï¿½as do aparelho circulatï¿½rio, X.   Doenï¿½as do aparelho respiratï¿½rio, XI.  Doenï¿½as do aparelho digestivo, XX.  Causas externas de morbidade e mortalidade
+Perï¿½odo:2017
+"Municipio";"Janeiro";"Fevereiro";"Marco";"Abril";"Maio";"Junho";"Julho";"Agosto";"Setembro";"Outubro";"Novembro";"Dezembro";"Total"
 "350010 ADAMANTINA";18;20;21;26;24;25;31;30;28;35;36;23;317
 "350020 ADOLFO";2;-;1;-;5;-;-;-;1;-;-;-;9
 "350030 AGUAI";4;4;1;2;2;2;2;4;2;3;2;3;31
@@ -641,13 +641,13 @@ Período:2017
 "355720 CHAVANTES";7;9;3;3;3;4;3;5;10;3;3;6;59
 "355730 ESTIVA GERBI";-;-;1;-;-;1;1;-;1;-;2;1;7
 "Total";14803;14099;15113;15044;16993;17203;18992;17307;16427;16410;15076;15673;193140
- Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
- Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Fonte: MS/SVS/CGIAE - Sistema de Informaï¿½ï¿½es sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saï¿½de para mais informaï¿½ï¿½es.
  Nota:
  
- Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
- "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
- No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
- No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ Em 2011, houve uma mudanï¿½a no conteï¿½do da Declaraï¿½ï¿½o de ï¿½bito, com maior detalhamento das informaï¿½ï¿½es coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulï¿½rios. Para mais detalhes sobre as mudanï¿½as ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informaï¿½ï¿½es sobre Mortalidade - SIM. Consolidaï¿½ï¿½o da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificaï¿½ï¿½o 2017 foram atualizados, com alteraï¿½ï¿½o das causas bï¿½sicas de 2 registros e exclusï¿½o de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificaï¿½ï¿½o 2019 foram atualizados, com alteraï¿½ï¿½o das causas bï¿½sicas de 4 registros e exclusï¿½o de 1 registro.
  
