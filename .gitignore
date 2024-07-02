@@ -134,6 +134,3 @@ dmypy.json
 .vscode
 *.Rproj
 *.mp4
-slides/
-assets/
-listas/
