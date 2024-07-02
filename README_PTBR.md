@@ -1,29 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Author List</title>
-    <style>
-        .author-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            text-align: center;
-            margin: 0 auto;
-            max-width: 800px; /* Adjust as needed */
-        }
-        .author {
-            flex: 1 1 25%;
-            box-sizing: border-box;
-            padding: 10px;
-        }
-        .single-author {
-            width: 100%;
-            padding: 10px;
-            box-sizing: border-box;
-        }
-    </style>
-</head>
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
         <a href="README.md"><img src="assets/us-flag.svg" alt="US Flag" style="width:30px; height:auto;"></a>
@@ -32,21 +6,6 @@
 </div>
 
 # Qual o impacto da presença de UPAs no nº de mortes dos municípios de São Paulo?
-
-<body>
-    <div class="author-container">
-        <div class="author">
-            <strong>Ruth Pereira di Rada</strong><br>
-        </div>
-        <div class="author">
-            <strong>Ryan Alef de Souza Costa</strong><br>
-        </div>
-        <div class="author">
-            <strong>Vitor Baldoino</strong><br>
-        </div>
-    </div>
-</body>
-<br>
 
 Recentemente, a pandemia da covid-19 destacou a importância das questões de saúde pública, trazendo à tona preocupações sobre o colapso dos atendimentos de emergência hospitalar. Tendo como referência os estudos [5](#referências) e [6](#referências), este trabalho procura avaliar empiricamente o impacto das Unidades de Pronto Atendimento (UPAs) 24h nas taxas de mortalidade dos municípios do estado de São Paulo, utilizando uma estrutura de dados em painel para o período de 2010-2019.
 
