@@ -1,3 +1,10 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <div>
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="US Flag" style="width:30px; height:auto;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" style="width:30px; height:auto; margin-left: 10px;">
+    </div> 
+</div>
+
 # Econometrics II - EAE0325 - FEAUSP 2022.02
 
 This repository contains the materials for the Econometrics II course taught in the 2nd semester of 2022 at FEA-USP. Whenever possible, I will upload here the notes taken during practical classes, the practical exercises developed throughout the course, and the final project.
