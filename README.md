@@ -1,29 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Author List</title>
-    <style>
-        .author-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            text-align: center;
-            margin: 0 auto;
-            max-width: 800px; /* Adjust as needed */
-        }
-        .author {
-            flex: 1 1 25%;
-            box-sizing: border-box;
-            padding: 10px;
-        }
-        .single-author {
-            width: 100%;
-            padding: 10px;
-            box-sizing: border-box;
-        }
-    </style>
-</head>
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <div>
         <a href="README.md"><img src="assets/us-flag.svg" alt="US Flag" style="width:30px; height:auto;"></a>
@@ -32,22 +6,6 @@
 </div>
 
 # What is the impact of the presence of Emergency Care Units (UPAs) on the number of deaths in cities of São Paulo?
-
-<body>
-    <div class="author-container">
-        <div class="author">
-            <strong>Ruth Pereira di Rada</strong><br>
-        </div>
-        <div class="author">
-            <strong>Ryan Alef de Souza Costa</strong><br>
-        </div>
-        <div class="author">
-            <strong>Vitor Baldoino</strong><br>
-        </div>
-    </div>
-</body>
-<br>
-
 
 Recently, the COVID-19 pandemic has highlighted the importance of public health issues, bringing to light concerns about the collapse of emergency hospital services. Based on studies [5](#references) and [6](#references), this paper aims to evaluate the impact of 24-hour Emergency Care Units (UPAs) on mortality rates in municipalities in the state of São Paulo, using a panel data structure for the period from 2010 to 2019.
 
