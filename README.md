@@ -9,7 +9,7 @@
 
 Recently, the COVID-19 pandemic has highlighted the importance of public health issues, bringing to light concerns about the collapse of emergency hospital services. Based on studies [5](#references) and [6](#references), this paper aims to evaluate the impact of 24-hour Emergency Care Units (UPAs) on mortality rates in municipalities in the state of São Paulo, using a panel data structure for the period from 2010 to 2019.
 
-_The work was developed within the scope of the Econometrics II course taught in the 2nd semester of 2022 at FEA-USP._
+_The project was developed within the scope of the Econometrics II course taught in the 2nd semester of 2022 at FEA-USP._
 
 ## Contents
 
